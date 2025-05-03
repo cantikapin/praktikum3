@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" 
+     href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>praktikum3</title>
+</head>
+<body>
+    <h1 style="color: rgba(9, 34, 117, 0.993); text-align: center ;"> Halo, ini adalah biodata saya!</h1>
+   <img src="cantika.jpeg" alt="ini adalah foto saya" width="300" height="200">
+   <p>ini biodata saya</p>
+
+   <ul>
+    <li>Nama = Cantika Pinari</li>
+    <li>NPM = E1B024024</li>
+    <li>Fakultas = Pertanian</li>
+    <li>Prodi = Kehutanan</li>
+    <li>TTL = Bengkulu, 18 November 2006</li>
+    <li>Alamat = Timur Indah</li>
+   </ul>
+   <a href="https://www.instagram.com/czooone" target="_blank">Instagram saya</a><br>
+
+</body>
+</html>
